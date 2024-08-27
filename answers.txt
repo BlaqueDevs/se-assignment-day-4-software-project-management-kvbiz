@@ -1,0 +1,51 @@
+Q1: Timely delivery is very important. It helpls in resource management and customer satisfaction.
+Furthermore, the team keeps track of its progress and monitors how cloe or far it it from its goal.
+
+Q2: When you stay withtin the budget, you boost stakeholder confidence since they know you did not lie on your pitch.
+It also prevent one from overshooting, leading to stalling of the project or seeking additional funding. 
+
+Q3: Agile is a flexible approach to working on code, while waterfall is methodogical. In the real woorld,
+a combination of both is used. The customer is key in the processs, so team may need to constantly consult and work 
+with the customer each and every step.The disadvantage of this is that is is slow,time cinsuming.  At some point, 
+one may need to be methodical to meet the budget and deadline .
+
+Q4:A situation that typically requires agile use is developing mobile money solutions. Mpesa is a good example 
+of this. Before being released into the market, it underwent testing in Thika, where the common mwananchi was
+extensively consulted. A waterfall situation may be a security future or software update to patch existing flaws.
+This should be done as quickly as possible, in a procedural manner. Remember, software engineering includes
+maintainance of existing softwares, not just creating new ones.
+
+Q5: To ensure quality assurance, you can hire a quality insurance manager.Software, just like any othe product
+must adhere to industry standards. The reasons are many such as ease of collaboration. When future programmers
+edit your code, they can easily understand it since you have used conventional naming methods.Your software
+should also be secure, with little to no room for hacking.
+
+Q6:Clarity and Focus . As my teahcer once said, failing to plan is planning to fail.So define the project scope.!
+WBS breaks down this huge abstract project into simple nanagable tasks. It could be per group member, or per
+section of the project. This enhances organisation and progress tracking.
+
+Q7:First of all, Gantt charts offer a visual representation of youe work plan schedule. The work schedule well, 
+simply put, keeps you on schedule.
+
+Q8:The core issues my software would aim to address would probably be lack of adequate tools in diagnosing erros
+in the Electrical Engineering space. In this case my target audience would be fellow engineers, professionals and
+technicians. This would be relatable since it would make their work so much easier.
+
+Q9:By clearly defining the problem, i get to analyse its urgency, importance and even cost effectiveness. 
+I give stakeholders a clear picture and boost their confidence in me.
+
+Q10:To capture the essence of my software solution, i would use simple language. Granted the chance , i would
+use sheng and even a bit of Kijaluo. So that even the Mama mboga will be able to understand what I am saying.
+Most importantly, i would not sell them a solution to a problem that does not exist.
+
+Q11:Some features that would make my software stand out would not be some cutting edge technology or a complex
+user interface, but a simple user interface, lack of ads, and most importantly, it would be free to use, 
+relying on contributions from well wishers and donators.
+
+Q12:There is plenty of data regarding the growth and market size of my project. EnMS systems are gaining popularity
+in the age of environmental and energy conservation. 
+
+Q13: I think understanding market trends will grant you a  competitive adavantage. However, market trends
+are not everything. If your looking to create a solution grom observing the markets  for monetary gain, at best
+you will create a software with plenty of transaction costs and ads. It is better to take a different approach
+,that is , to look around yourself, find your passion, and digitize that.
